@@ -23,18 +23,15 @@ network requests and display them using a RecyclerView with LiveData for real-ti
   
 # Technologies Used
 - Kotlin: The primary programming language used for developing the app.
-Retrofit: A popular networking library for making HTTP requests to the server.
-RecyclerView: A powerful UI component for displaying lists of data.
-LiveData: A data holder class that provides real-time updates to the UI.
-ViewModel: Manages UI-related data and survives configuration changes.
-MVVM Architecture: Organizes the app's codebase in a structured and modular way.
-Picasso/Glide (optional): For loading and caching images from URLs.
+- Retrofit: A popular networking library for making HTTP requests to the server.
+- RecyclerView: A powerful UI component for displaying lists of data.
+- LiveData: A data holder class that provides real-time updates to the UI.
+- ViewModel: Manages UI-related data and survives configuration changes.
+- MVVM Architecture: Organizes the app's codebase in a structured and modular way.
+- Picasso library: For loading and caching images from URLs.
 
 # Installation
 Clone this repository to your local machine using:
-
-bash
-Copy code
 git clone https://github.com/NitinGautam05/Quick-News.git
 Open the project using Android Studio.
 
